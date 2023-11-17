@@ -14,8 +14,6 @@ Agora, estou em busca de ampliar meus horizontes e solidificar meu conhecimento 
  &nbsp;
  &nbsp;
 
-
-
 ## Minhas Habilidades
 
 #### Principais:
