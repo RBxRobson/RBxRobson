@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/RBxRobson/RBxRobson/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"> Eu possuo uma base sólida em <strong>Front-End</strong>, com especialização em React, visando sempre estruturar meus projetos de forma organizada, utilizando ferramentas como Redux e Styled-Components. Além disso, tenho experiência na implementação de navegação por meio do React Router. <br><br>
+<p > Eu possuo uma base sólida em <strong>Front-End</strong>, com especialização em React, visando sempre estruturar meus projetos de forma organizada, utilizando ferramentas como Redux e Styled-Components. Além disso, tenho experiência na implementação de navegação por meio do React Router. <br><br>
 Agora, estou em busca de ampliar meus horizontes e solidificar meu conhecimento em Back-End, focando meus estudos em Python para expandir minhas habilidades nessa área.</p>&nbsp;
 
 
