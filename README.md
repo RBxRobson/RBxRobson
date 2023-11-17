@@ -11,6 +11,10 @@ Agora, estou em busca de ampliar meus horizontes e solidificar meu conhecimento 
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RBxRobson&show_icons=true&theme=radical&layout=compact" />
  </div>
 
+<div>
+<img width=100% align="center"  src="https://github-readme-stats.vercel.app/api?username=RBxRobson&show_icons=true&theme=radical&layout=compact" />
+ </div>
+
  &nbsp;
  &nbsp;
 
