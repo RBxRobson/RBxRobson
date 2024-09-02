@@ -1,5 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="./Assets/HeaderReadMD.png" />
-&nbsp;&nbsp;&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=800&color=E45F5F&width=435&lines=Prazer!+Meu+nome+%C3%A9+Robson.;Seja+bem-vindo+ao+meu+perfil.)](https://git.io/typing-svg)
 
 <p > Eu possuo uma base sólida em <strong>Front-End</strong>, com especialização em React, visando sempre estruturar meus projetos de forma organizada, utilizando ferramentas como Redux e Styled-Components. Além disso, tenho experiência na implementação de navegação por meio do React Router. <br><br>
 Agora, estou em busca de ampliar meus horizontes e solidificar meu conhecimento em Back-End, focando meus estudos em Python para expandir minhas habilidades nessa área.</p>&nbsp;
