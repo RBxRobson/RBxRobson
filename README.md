@@ -2,6 +2,7 @@
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e74429&height=110&section=header%22"/>
 </div>
 
+
 <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=800&color=E77677&vCenter=true&width=435&lines=Prazer!+Meu+nome+%C3%A9+Robson.;Seja+bem-vindo+ao+meu+perfil" alt="Typing SVG" /></a>
 </div>
