@@ -70,7 +70,7 @@
 
 ## Projetos em destaque:
 
-#### Next Finance
+### Next Finance
 
 <p>Next Finance é uma página representativa de um banco virtual, com uma variedade de componentes interativos, incluindo carrosséis, seções de FAQ, grids dinâmicos, entre outros. O objetivo foi desenvolver uma aplicação que mostra um pouco mais das habilidades que desenvolvi no decorrer dos meus estudos. Atualmente, é o projeto mais elaborado do meu portfólio.</p>
 
@@ -84,7 +84,7 @@
 <br>
 <br>
 
-#### Clone do Twitter/X
+### Clone do Twitter/X
 #### Projeto finalizado recentemente, atualmente recebendo ajustes na responsividade
 <p>Este projeto Full Stack é um clone do Twitter que replica as principais funcionalidades da plataforma original. Ele permite que os usuários criem contas, editem seus perfis, sigam outros usuários e interajam por meio de diferentes tipos de postagens, incluindo tweets originais, comentários, citações e repostagens. Além disso, é possível curtir qualquer tipo de publicação. <br/>
 O back-end foi desenvolvido com Python, utilizando o Django e o Django REST Framework para a construção da API. O gerenciamento de dependências é feito com Poetry, e a API está hospedada no PythonAnywhere. No front-end, a aplicação foi desenvolvida com React e TypeScript e hospedada na Vercel.</p>
