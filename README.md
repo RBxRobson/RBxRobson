@@ -17,7 +17,7 @@
 
 <div  align="center">
 <img width=57.5% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RBxRobson&theme=radical&mode=weekly" />
-<img width=42% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RBxRobson&show_icons=true&theme=radical&layout=compact" />
+<img width=42% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RBxRobson&show_icons=true&theme=radical&layout=compact&size_weight=0.5&count_weight=0.5" />
 <img width=100% align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=RBxRobson&days=30&theme=github-compact&bg_color=141321" />
  </div>
  <br>
